@@ -1,0 +1,17 @@
+.only-print {
+    display: none !important;
+}
+
+/* Só irá aparecer quando o usuário mandar imprimir (Ctrl+P ou window.print()) */
+@media print {
+
+    /* Elementos com essa classe somem na impressão */
+    .no-print {
+        display: none !important;
+    }
+
+    /* Elementos com essa classe só aparecem na impressão */
+    .only-print {
+        display: block !important;
+    }
+}
