@@ -1,0 +1,159 @@
+              <!-- Inicio do Card -->
+              <div class="card shadow mb-4 card-novaaposta mx-auto">
+                <div class="card-header py-3">
+                  <h6 class="m-0 font-weight-bold text-primary text-center">Selecione os Numeros da Cartela</h6>
+                </div>
+                <div class="card-body">
+
+                  <div class="row">
+                    <div class="col-md-6 d-flex align-items-center justify-content-center">
+
+                      <div class="cartela ml-3">
+
+                        <div class="d-flex justify-content-center">
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1">
+                            <label class="form-check-label" for="inlineCheckbox1">01</label>
+                          </div>
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2">
+                            <label class="form-check-label" for="inlineCheckbox2">02</label>
+                          </div>
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="checkbox" id="inlineCheckbox3" value="option2">
+                            <label class="form-check-label" for="inlineCheckbox3">03</label>
+                          </div>
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="checkbox" id="inlineCheckbox4" value="option2">
+                            <label class="form-check-label" for="inlineCheckbox4">04</label>
+                          </div>
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="checkbox" id="inlineCheckbox5" value="option2">
+                            <label class="form-check-label" for="inlineCheckbox5">05</label>
+                          </div>
+      
+                        </div>
+      
+                        <div class="d-flex justify-content-center">
+      
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1">
+                            <label class="form-check-label" for="inlineCheckbox1">06</label>
+                          </div>
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2">
+                            <label class="form-check-label" for="inlineCheckbox2">07</label>
+                          </div>
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="checkbox" id="inlineCheckbox3" value="option2">
+                            <label class="form-check-label" for="inlineCheckbox3">08</label>
+                          </div>
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="checkbox" id="inlineCheckbox4" value="option2">
+                            <label class="form-check-label" for="inlineCheckbox4">09</label>
+                          </div>
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="checkbox" id="inlineCheckbox5" value="option2">
+                            <label class="form-check-label" for="inlineCheckbox5">10</label>
+                          </div>
+      
+                        </div>
+      
+                        <div class="d-flex justify-content-center">
+      
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1">
+                            <label class="form-check-label" for="inlineCheckbox1">11</label>
+                          </div>
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2">
+                            <label class="form-check-label" for="inlineCheckbox2">12</label>
+                          </div>
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="checkbox" id="inlineCheckbox3" value="option2">
+                            <label class="form-check-label" for="inlineCheckbox3">13</label>
+                          </div>
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="checkbox" id="inlineCheckbox4" value="option2">
+                            <label class="form-check-label" for="inlineCheckbox4">14</label>
+                          </div>
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="checkbox" id="inlineCheckbox5" value="option2">
+                            <label class="form-check-label" for="inlineCheckbox5">15</label>
+                          </div>
+      
+                        </div>
+      
+                        <div class="d-flex justify-content-center">
+      
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1">
+                            <label class="form-check-label" for="inlineCheckbox1">16</label>
+                          </div>
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2">
+                            <label class="form-check-label" for="inlineCheckbox2">17</label>
+                          </div>
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="checkbox" id="inlineCheckbox3" value="option2">
+                            <label class="form-check-label" for="inlineCheckbox3">18</label>
+                          </div>
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="checkbox" id="inlineCheckbox4" value="option2">
+                            <label class="form-check-label" for="inlineCheckbox4">19</label>
+                          </div>
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="checkbox" id="inlineCheckbox5" value="option2">
+                            <label class="form-check-label" for="inlineCheckbox5">20</label>
+                          </div>
+      
+                        </div>
+      
+                        <div class="d-flex justify-content-center">
+      
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1">
+                            <label class="form-check-label" for="inlineCheckbox1">21</label>
+                          </div>
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2">
+                            <label class="form-check-label" for="inlineCheckbox2">22</label>
+                          </div>
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="checkbox" id="inlineCheckbox3" value="option2">
+                            <label class="form-check-label" for="inlineCheckbox3">23</label>
+                          </div>
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="checkbox" id="inlineCheckbox4" value="option2">
+                            <label class="form-check-label" for="inlineCheckbox4">24</label>
+                          </div>
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="checkbox" id="inlineCheckbox5" value="option2">
+                            <label class="form-check-label" for="inlineCheckbox5">25</label>
+                          </div>
+      
+                        </div>
+    
+                      </div>
+
+                    </div>
+                    <div class="col-md-6">
+                      <img class="imagem-novaaposta img-fluid" alt="dinheiro" src="https://image.freepik.com/free-vector/abstract-illustration-stock-exchange-data_23-2148604352.jpg">
+                    </div>
+                  </div>
+
+                  
+
+                  
+                  
+                </div>
+                <div class="card-footer text-center">
+                  <a href="resultado.html" class="btn btn-primary btn-icon-split btn-lg mt-3 mb-3">
+                    <span class="icon text-white-50">
+                      <i class="fas fa-check"></i>
+                    </span>
+                    <span class="text">Salvar Aposta</span>
+                  </a>
+                </div>
+              </div>
+              <!-- / Fim do Card-->
